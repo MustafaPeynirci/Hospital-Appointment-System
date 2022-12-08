@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.navsize{
+    font-size: 30px;
+    padding: 30px;
+}
+.imgsize{
+    height: 150px;
+    width: 500px;
+}
+.kayıtsize{
+    font-size: 18px;
+    padding: 10px;
+}
+.anasayfa{
+    margin:auto;
+    width: 90%;
+}
+.tb{
+    text-align: center;
+}

@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.navsize{
+    font-size: 30px;
+    padding: 30px;
+}
+.imgsize{
+    height: 130px;
+    width: 440px;
+}
+.kayıtsize{
+    font-size: 18px;
+    padding: 10px;
+}
+.anasayfa{
+    margin:auto;
+    width: 93%; 
+}
+.tb{
+    text-align: center;
+}
+
+.footer{
+    background-color:rgb(51, 194, 187);
+    text-align:center;
+    padding-top: 18px;
+    width:100%;
+    height:180px;
+    position:absolute;
+    bottom:0;
+}
+
+.doktorlarbg{
+   
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.ortala{
+    margin:auto;
+    width: 93%; 
+}
